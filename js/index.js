@@ -84,4 +84,3 @@ function reposInfo(data) {
   // wait HTML to load first
   document.addEventListener("DOMContentLoaded", handleDOMContentLoaded);
   
-  // TODO: make modular
